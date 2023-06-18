@@ -195,7 +195,7 @@ const questions = [
     correctAnswer: "b"
   },
   {
-    question: "How do you write \"Hello World\" in an alert box?,
+    question: "How do you write \"Hello World\" in an alert box?",
     answers: {
       a: "alertBox(\"Hello World\");",
       b: "msg(\"Hello World\");",
