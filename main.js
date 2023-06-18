@@ -605,7 +605,7 @@ get renderForm() {
       hr = document.createElement("hr");
   
     header.textContent = "JavaScript Quiz Results";
-    container.className = "container";
+    container.className = "quiz-results-container";
     scoreContainer.className = "score-container";
     score.innerHTML = `Score <strong>${this.score}</strong> of <strong>${this.totalQuestions}</strong>`;
     scorePercent.textContent = `${(this.score / this.totalQuestions * 100).toFixed(2)}% Correct`;
