@@ -55,12 +55,12 @@ const questions = [
     correctAnswer: "a"
   },
   {
-    question: "What is the correct JavaScript syntax to change the content of the HTML element below? <p id=\"demo\">This is a demonstration.</p>,
+    question: "What is the correct JavaScript syntax to change the content of the HTML element below? <p id=\"demo\">This is a demonstration.</p>",
     answers: {
-      a: "document.getElementById(\"demo\").innerHTML = \"Hello World!\";,
-      b: "document.getElement(\"p\").innerHTML = \"Hello World!\";,
-      c: "document.getElementByName(\"p\").innerHTML = \"Hello World!\";,
-      d: "#demo.innerHTML = \"Hello World!\";
+      a: "document.getElementById(\"demo\").innerHTML = \"Hello World!\";",
+      b: "document.getElement(\"p\").innerHTML = \"Hello World!\";",
+      c: "document.getElementByName(\"p\").innerHTML = \"Hello World!\";",
+      d: "#demo.innerHTML = \"Hello World!\"";
     },
     multi: false,
     correctAnswer: "a"
