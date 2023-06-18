@@ -176,7 +176,7 @@ const questions = [
     correctAnswer: "ab"
   },
   {
-    question: "What is the correct syntax for referring to an external script called \"xxx.js\"?,
+    question: "What is the correct syntax for referring to an external script called \"xxx.js\"?",
     answers: {
       a: "<script href=\"xxx.js\">",
       b: "<script src=\"xxx.js\">",
