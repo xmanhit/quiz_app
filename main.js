@@ -145,10 +145,10 @@ const questions = [
   {
     question: "How do you create a JavaScript array?",
     answers: {
-      a: "var fruits = \"banana\", \"apple\", \"peach\";,
-      b: "var fruits = [\"banana\", \"apple\", \"peach\"];,
-      c: "var fruits = (1:\"banana\", 2:\"apple\", 3:\"peach\");,
-      d: "var fruits = 1 = (\"banana\"), 2 = (\"apple\"), 3 = (\"peach\");
+      a: "var fruits = \"banana\", \"apple\", \"peach\";",
+      b: "var fruits = [\"banana\", \"apple\", \"peach\"];",
+      c: "var fruits = (1:\"banana\", 2:\"apple\", 3:\"peach\");",
+      d: "var fruits = 1 = (\"banana\"), 2 = (\"apple\"), 3 = (\"peach\");"
     },
     multi: false,
     correctAnswer: "b"
@@ -178,9 +178,9 @@ const questions = [
   {
     question: "What is the correct syntax for referring to an external script called \"xxx.js\"?,
     answers: {
-      a: "<script href=\"xxx.js\">,
-      b: "<script src=\"xxx.js\">,
-      c: "<script name=\"xxx.js\">
+      a: "<script href=\"xxx.js\">",
+      b: "<script src=\"xxx.js\">",
+      c: "<script name=\"xxx.js\">"
     },
     multi: false,
     correctAnswer: "b"
@@ -197,10 +197,10 @@ const questions = [
   {
     question: "How do you write \"Hello World\" in an alert box?,
     answers: {
-      a: "alertBox(\"Hello World\");,
-      b: "msg(\"Hello World\");,
-      c: "alert(\"Hello World\");,
-      d: "msgBox(\"Hello World\");
+      a: "alertBox(\"Hello World\");",
+      b: "msg(\"Hello World\");",
+      c: "alert(\"Hello World\");",
+      d: "msgBox(\"Hello World\");"
     },
     multi: false,
     correctAnswer: "c"
