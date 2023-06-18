@@ -60,7 +60,7 @@ const questions = [
       a: "document.getElementById(\"demo\").innerHTML = \"Hello World!\";",
       b: "document.getElement(\"p\").innerHTML = \"Hello World!\";",
       c: "document.getElementByName(\"p\").innerHTML = \"Hello World!\";",
-      d: "#demo.innerHTML = \"Hello World!\"";
+      d: "#demo.innerHTML = \"Hello World!\";"
     },
     multi: false,
     correctAnswer: "a"
